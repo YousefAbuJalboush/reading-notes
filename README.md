@@ -104,3 +104,4 @@ Jordanian | Male | 23
 |Class31-Read031|[Readings: Django REST Framework & Docker](Code-401/Read31)|
 |Class32-Read032|[Readings: Permissions & Postgresql](Code-401/Read32)|
 |Class33-Read033|[Readings: Authentication & Production Server](Code-401/Read33)|
+|Class34-Read034|[Readings: API Deployment](Code-401/Read34)|
