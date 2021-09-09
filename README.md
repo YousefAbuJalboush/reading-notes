@@ -105,3 +105,4 @@ Jordanian | Male | 23
 |Class32-Read032|[Readings: Permissions & Postgresql](Code-401/Read32)|
 |Class33-Read033|[Readings: Authentication & Production Server](Code-401/Read33)|
 |Class34-Read034|[Readings: API Deployment](Code-401/Read34)|
+|Class35-Read035|[Readings: Graphs](Code-401/Read35)|
