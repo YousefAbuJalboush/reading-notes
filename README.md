@@ -106,3 +106,4 @@ Jordanian | Male | 23
 |Class33-Read033|[Readings: Authentication & Production Server](Code-401/Read33)|
 |Class34-Read034|[Readings: API Deployment](Code-401/Read34)|
 |Class35-Read035|[Readings: Graphs](Code-401/Read35)|
+|Class36-Read036|[Readings: DSA Review](Code-401/Read36)|
