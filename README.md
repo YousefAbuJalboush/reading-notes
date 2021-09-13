@@ -108,3 +108,4 @@ Jordanian | Male | 23
 |Class35-Read035|[Readings: Graphs](Code-401/Read35)|
 |Class36-Read036|[Readings: DSA Review](Code-401/Read36)|
 |Class37-Read037|[Readings: React 1](Code-401/Read37)|
+|Class38-Read038|[Readings: React 2](Code-401/Read38)|
