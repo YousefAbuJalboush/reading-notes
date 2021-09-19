@@ -111,3 +111,5 @@ Jordanian | Male | 23
 |Class38-Read038|[Readings: React 2](Code-401/Read38)|
 |Class39-Read039|[Readings: React 3](Code-401/Read39)|
 |Class41-Read041|[Readings: React 4](Code-401/Read41)|
+|Class42-Read042|[Readings: Pythonisms](Code-401/Read42)|
+|Class42-Read42-Ethics|[Readings: Ethics in Tech](Code-401/Read42-Ethics)|
