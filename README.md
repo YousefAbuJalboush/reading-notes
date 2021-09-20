@@ -2,9 +2,9 @@
 
 ### My name is **Yousef Abu Jalboush**
 
-Nationality | Gender | Age
------------- | ------------- | -------------
-Jordanian | Male | 23
+| Nationality | Gender | Age |
+| ----------- | ------ | --- |
+| Jordanian   | Male   | 23  |
 
 ### I’ve graduated from **WISE** university, faculty of **Information Technology**, **Software Engineering** department, year 2021 with grade _**Excellent**_
 
@@ -24,92 +24,93 @@ Jordanian | Male | 23
 
 ## Code 102 - Intro to Software Development
 
-| Assignment            | Link                                  |
-| ------------          | -------------                         |
-|Class1-Read01|[Read01](Code-102/Read01)|
-|Class2-Read02a|[Read02a](Code-102/Read02a)|
-|Class2-Read02b|[Read02b](Code-102/Read02b)|
-|Class3-Read03|[Read03](Code-102/Read03)|
-|Class4-Read04|[Read04](Code-102/Read04)|
-|Class5-Read05|[Read05](Code-102/Read05)|
-|Class6-Read06|[Read06](Code-102/Read06)|
+| Assignment     | Link                        |
+| -------------- | --------------------------- |
+| Class1-Read01  | [Read01](Code-102/Read01)   |
+| Class2-Read02a | [Read02a](Code-102/Read02a) |
+| Class2-Read02b | [Read02b](Code-102/Read02b) |
+| Class3-Read03  | [Read03](Code-102/Read03)   |
+| Class4-Read04  | [Read04](Code-102/Read04)   |
+| Class5-Read05  | [Read05](Code-102/Read05)   |
+| Class6-Read06  | [Read06](Code-102/Read06)   |
 
 ## Code 201 - Foundations of Software Development
 
-| Assignment            | Link                                                                                                      |
-| ------------          | -------------                                                                                             |
-|Class0-Read01|[Read: 01 - Introductory HTML and JavaScript](Code-201/Read01)|
-|Class1-Read02|[Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code-201/Read02)|
-|Class2-Read03|[Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](Code-201/Read03)|
-|Class3-Read04|[Read: 04 - HTML Links, CSS Layout, JS Functions](Code-201/Read04 )|
-|Class4-Read05|[Read: 05 - HTML Images; CSS Color & Text](Code-201/Read05 )|
-|Class5-Read06|[Read: 06 - JS Object Literals; The DOM](Code-201/Read06 )|
-|Class6-Read07|[Read: 07 - HTML Tables; JS Constructor Functions](Code-201/Read07 )|
-|Class7-Read08|[Read: 08 - More CSS Layout](Code-201/Read08 )|
-|Class8-Read09|[Read: 09 - Forms and Events](Code-201/Read09 )|
-|Class9-Read10|[Read: 10 - JS Debugging](Code-201/Read10 )|
-|Class10-Read11|[Read: 11 - Assorted Topics](Code-201/Read11 )|
-|Class11-Read12|[Read: 12 - Docs for the HTML canvas Element & Chart.js](Code-201/Read12)|
-|Class12-Read13|[Read: 13 - Local Storage](Code-201/Read13)|
-|Class13-Read14a|[Read: 14a - CSS Transforms, Transitions, and Animations](Code-201/Read14a)|
-|Class13-Read14b|[Read: 14b - What Google Learned About Teams](Code-201/Read14b)|
+| Assignment      | Link                                                                                         |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| Class0-Read01   | [Read: 01 - Introductory HTML and JavaScript](Code-201/Read01)                               |
+| Class1-Read02   | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code-201/Read02) |
+| Class2-Read03   | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](Code-201/Read03)                         |
+| Class3-Read04   | [Read: 04 - HTML Links, CSS Layout, JS Functions](Code-201/Read04 )                          |
+| Class4-Read05   | [Read: 05 - HTML Images; CSS Color & Text](Code-201/Read05 )                                 |
+| Class5-Read06   | [Read: 06 - JS Object Literals; The DOM](Code-201/Read06 )                                   |
+| Class6-Read07   | [Read: 07 - HTML Tables; JS Constructor Functions](Code-201/Read07 )                         |
+| Class7-Read08   | [Read: 08 - More CSS Layout](Code-201/Read08 )                                               |
+| Class8-Read09   | [Read: 09 - Forms and Events](Code-201/Read09 )                                              |
+| Class9-Read10   | [Read: 10 - JS Debugging](Code-201/Read10 )                                                  |
+| Class10-Read11  | [Read: 11 - Assorted Topics](Code-201/Read11 )                                               |
+| Class11-Read12  | [Read: 12 - Docs for the HTML canvas Element & Chart.js](Code-201/Read12)                    |
+| Class12-Read13  | [Read: 13 - Local Storage](Code-201/Read13)                                                  |
+| Class13-Read14a | [Read: 14a - CSS Transforms, Transitions, and Animations](Code-201/Read14a)                  |
+| Class13-Read14b | [Read: 14b - What Google Learned About Teams](Code-201/Read14b)                              |
 
 ## Code 301 - Intermediate Software Development
 
-| Assignment            | Link                                  |
-| ------------          | -------------                         |
-|Class1-Read01|[Readings: Introduction to React and Components](Code-301/Read01)|
-|Class2-Read02|[Readings: State and Props](Code-301/Read02)|
-|Class3-Read03|[Readings: Passing Functions as Props](Code-301/Read03)|
-|Class4-Read04|[Readings: React and Forms](Code-301/Read04)|
-|Class5-Read05|[Readings: Putting it all together](Code-301/Read05)|
-|Class6-Read06|[Readings: NODE.JS](Code-301/Read06)|
-|Class7-Read07|[Readings: REST](Code-301/Read07)|
-|Class8-Read08|[Readings: APIs](Code-301/Read08)|
-|Class9-Read09|[Readings: FUNCTIONAL PROGRAMMING](Code-301/Read09)|
-|Class10-Read010|[Readings: In memory storage](Code-301/Read010)|
-|Class11-Read011|[Readings: Authentication](Code-301/Read011)|
-|Class12-Read012|[Readings: Mongo and Mongoose](Code-301/Read012)|
-|Class13-Read013|[Readings: CRUD](Code-301/Read013)|
-|Class14-Read014|[Readings: Diversity & Inclusion in the Tech Industry](Code-301/Read014)|
+| Assignment      | Link                                                                     |
+| --------------- | ------------------------------------------------------------------------ |
+| Class1-Read01   | [Readings: Introduction to React and Components](Code-301/Read01)        |
+| Class2-Read02   | [Readings: State and Props](Code-301/Read02)                             |
+| Class3-Read03   | [Readings: Passing Functions as Props](Code-301/Read03)                  |
+| Class4-Read04   | [Readings: React and Forms](Code-301/Read04)                             |
+| Class5-Read05   | [Readings: Putting it all together](Code-301/Read05)                     |
+| Class6-Read06   | [Readings: NODE.JS](Code-301/Read06)                                     |
+| Class7-Read07   | [Readings: REST](Code-301/Read07)                                        |
+| Class8-Read08   | [Readings: APIs](Code-301/Read08)                                        |
+| Class9-Read09   | [Readings: FUNCTIONAL PROGRAMMING](Code-301/Read09)                      |
+| Class10-Read010 | [Readings: In memory storage](Code-301/Read010)                          |
+| Class11-Read011 | [Readings: Authentication](Code-301/Read011)                             |
+| Class12-Read012 | [Readings: Mongo and Mongoose](Code-301/Read012)                         |
+| Class13-Read013 | [Readings: CRUD](Code-301/Read013)                                       |
+| Class14-Read014 | [Readings: Diversity & Inclusion in the Tech Industry](Code-301/Read014) |
 
 ## Code 401 - Advanced Software Development
 
-| Assignment            | Link                                  |
-| ------------          | -------------                         |
-|Class1-Read01|[Readings: Topic](Code-401/Read01)|
-|Class2-Read02|[Readings: Testing and Modules](Code-401/Read02)|
-|Class3-Read03|[Readings FileIO & Exceptions](Code-401/Read03)|
-|Class4-Read04|[Classes and Objects in Python:](Code-401/Read04)|
-|Class5-Read05|[Implementation: Linked Lists](Code-401/Read05)|
-|Class6-Read06|[Readings: Game of Greed 1](Code-401/Read06)|
-|Class7-Read07|[Readings: Game of Greed 2 : Python Scope & the LEGB Rule](Code-401/Read07)|
-|Class8-Read08|[Readings: Game of Greed 3 : list Comprehensions](Code-401/Read08)|
-|Class9-Read09|[Readings: Game of Greed 4 : Dunder Methods](Code-401/Read09)|
-|Class10-Read010|[Implementation: Stacks and Queues](Code-401/Read10)|
-|Class11-Read011|[Readings: Data Analysis](Code-401/Read11)|
-|Class12-Read012|[Read: Class 12](Code-401/Read12)|
-|Class13-Read013|[Readings: Linear Regressions](Code-401/Read13)|
-|Class14-Read014|[Readings: Data Visualization](Code-401/Read14)|
-|Class15-Read015|[Readings: Implementation: Trees](Code-401/Read15)|
-|Class16-Read016|[Readings: Machine Learning Intro](Code-401/Read16)|
-|Class17-Read017|[Readings: Web Scraping](Code-401/Read17)|
-|Class18-Read018|[Readings: Cryptography](Code-401/Read18)|
-|Class19-Read019|[Readings: Automation](Code-401/Read19)|
-|Class26-Read026|[Readings: Intro to Django](Code-401/Read26)|
-|Class27-Read027|[Readings: Django Models](Code-401/Read27)|
-|Class28-Read028|[Readings: Django CRUD and Forms](Code-401/Read28)|
-|Class29-Read029|[Readings: Django Custom User](Code-401/Read29)|
-|Class30-Read030|[Readings: Hash Tables](Code-401/Read30)|
-|Class31-Read031|[Readings: Django REST Framework & Docker](Code-401/Read31)|
-|Class32-Read032|[Readings: Permissions & Postgresql](Code-401/Read32)|
-|Class33-Read033|[Readings: Authentication & Production Server](Code-401/Read33)|
-|Class34-Read034|[Readings: API Deployment](Code-401/Read34)|
-|Class35-Read035|[Readings: Graphs](Code-401/Read35)|
-|Class36-Read036|[Readings: DSA Review](Code-401/Read36)|
-|Class37-Read037|[Readings: React 1](Code-401/Read37)|
-|Class38-Read038|[Readings: React 2](Code-401/Read38)|
-|Class39-Read039|[Readings: React 3](Code-401/Read39)|
-|Class41-Read041|[Readings: React 4](Code-401/Read41)|
-|Class42-Read042|[Readings: Pythonisms](Code-401/Read42)|
-|Class42-Read42-Ethics|[Readings: Ethics in Tech](Code-401/Read42-Ethics)|
+| Assignment            | Link                                                                        |
+| --------------------- | --------------------------------------------------------------------------- |
+| Class1-Read01         | [Readings: Topic](Code-401/Read01)                                          |
+| Class2-Read02         | [Readings: Testing and Modules](Code-401/Read02)                            |
+| Class3-Read03         | [Readings FileIO & Exceptions](Code-401/Read03)                             |
+| Class4-Read04         | [Classes and Objects in Python:](Code-401/Read04)                           |
+| Class5-Read05         | [Implementation: Linked Lists](Code-401/Read05)                             |
+| Class6-Read06         | [Readings: Game of Greed 1](Code-401/Read06)                                |
+| Class7-Read07         | [Readings: Game of Greed 2 : Python Scope & the LEGB Rule](Code-401/Read07) |
+| Class8-Read08         | [Readings: Game of Greed 3 : list Comprehensions](Code-401/Read08)          |
+| Class9-Read09         | [Readings: Game of Greed 4 : Dunder Methods](Code-401/Read09)               |
+| Class10-Read010       | [Implementation: Stacks and Queues](Code-401/Read10)                        |
+| Class11-Read011       | [Readings: Data Analysis](Code-401/Read11)                                  |
+| Class12-Read012       | [Read: Class 12](Code-401/Read12)                                           |
+| Class13-Read013       | [Readings: Linear Regressions](Code-401/Read13)                             |
+| Class14-Read014       | [Readings: Data Visualization](Code-401/Read14)                             |
+| Class15-Read015       | [Readings: Implementation: Trees](Code-401/Read15)                          |
+| Class16-Read016       | [Readings: Machine Learning Intro](Code-401/Read16)                         |
+| Class17-Read017       | [Readings: Web Scraping](Code-401/Read17)                                   |
+| Class18-Read018       | [Readings: Cryptography](Code-401/Read18)                                   |
+| Class19-Read019       | [Readings: Automation](Code-401/Read19)                                     |
+| Class26-Read026       | [Readings: Intro to Django](Code-401/Read26)                                |
+| Class27-Read027       | [Readings: Django Models](Code-401/Read27)                                  |
+| Class28-Read028       | [Readings: Django CRUD and Forms](Code-401/Read28)                          |
+| Class29-Read029       | [Readings: Django Custom User](Code-401/Read29)                             |
+| Class30-Read030       | [Readings: Hash Tables](Code-401/Read30)                                    |
+| Class31-Read031       | [Readings: Django REST Framework & Docker](Code-401/Read31)                 |
+| Class32-Read032       | [Readings: Permissions & Postgresql](Code-401/Read32)                       |
+| Class33-Read033       | [Readings: Authentication & Production Server](Code-401/Read33)             |
+| Class34-Read034       | [Readings: API Deployment](Code-401/Read34)                                 |
+| Class35-Read035       | [Readings: Graphs](Code-401/Read35)                                         |
+| Class36-Read036       | [Readings: DSA Review](Code-401/Read36)                                     |
+| Class37-Read037       | [Readings: React 1](Code-401/Read37)                                        |
+| Class38-Read038       | [Readings: React 2](Code-401/Read38)                                        |
+| Class39-Read039       | [Readings: React 3](Code-401/Read39)                                        |
+| Class41-Read041       | [Readings: React 4](Code-401/Read41)                                        |
+| Class42-Read042       | [Readings: Pythonisms](Code-401/Read42)                                     |
+| Class42-Read42-Ethics | [Readings: Ethics in Tech](Code-401/Read42-Ethics)                          |
+| Class43-Read43        | [Readings: OSS Contributions](Code-401/Read43)                              |
